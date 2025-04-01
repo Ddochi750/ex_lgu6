@@ -1,0 +1,9 @@
+pip install virualenv
+source venv/Scripts/activate
+which python
+pip install numpy
+pip uninstall numpy
+
+파일명 : # requirements.txt
+
+pip install -r req
